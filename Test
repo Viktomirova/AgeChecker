@@ -13,9 +13,6 @@ if(age<18){
 else if(age>18){
     document.write("ADULT");
 }
-else{
-    document.write("Your Age Please!")
-}
-            </script></center>
+        </script></center>
     </body>
 </html>
